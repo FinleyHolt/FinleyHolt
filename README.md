@@ -19,4 +19,4 @@ WORLDS, an agent that finds an object described in plain language by reasoning o
 
 ## Contact
 
-frholt@stanford.edu
+frholt@stanford.edu | [Google Scholar](https://scholar.google.com/citations?user=iXUrVb8AAAAJ)

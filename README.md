@@ -17,6 +17,10 @@ WORLDS, an agent that finds an object described in plain language by reasoning o
 - **FAIRshake** (M.S. thesis, Case Western Reserve University, 2025). A framework for automating high-throughput X-ray diffraction data processing and machine learning integration. [cwru-sdle/FAIRshake](https://github.com/cwru-sdle/FAIRshake)
 - **MIT Lincoln Laboratory** (2025). Automation engine for a continual-learning training-data pipeline for computational fluid dynamics, run on idle supercomputer capacity: peaked at 6.4x the standard compute allocation, with over 99% of 5,164 simulations completing.
 
+## Open source
+
+- **GlobalProtect-openconnect** (2026). Fixed remote-browser sign-in in the open-source GlobalProtect VPN client for Linux, broken since 3.0.0; merged upstream in [#671](https://github.com/yuezk/GlobalProtect-openconnect/pull/671).
+
 ## Contact
 
 frholt@stanford.edu | [Google Scholar](https://scholar.google.com/citations?user=I0UgG3QAAAAJ)
